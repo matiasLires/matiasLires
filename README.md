@@ -1,6 +1,9 @@
 <h1 align="center">❄React Developer❄</h1>
 <div align="center">👨‍💻</div>
-<h4 align="center">Programador orientado al desarrollo de código limpio, optimización y mejora continua. </br> Me motiva estar a la vanguardia de la información y dominar nuevas tecnologías.</h4>
+<h4 align="center">Programmer oriented to the development of clean code, optimization and continuous improvement.
+Being at the forefront of information and mastering new technologies motivates me.</h4>
+</br>
+<div align="center">🐱‍👓🐱‍💻🐱‍👤🐱‍🚀</div>
 </br>
 <h3 align="center">⚡Highlights Technologies⚡</h3>
 
@@ -14,9 +17,7 @@
   
  </div>
 
-</br>
-
-<h3 align="center"> ✨Redes✨ </h3>
+<h3 align="center"> 🐱‍🐉Contact me🐱‍🐉 </h3>
 
 <div align="center">
 
