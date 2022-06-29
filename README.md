@@ -3,7 +3,7 @@
 <h4 align="center">Programmer oriented to the development of clean code, optimization and continuous improvement.
 Being at the forefront of information and mastering new technologies motivates me.</h4>
 </br>
-<div align="center">🐱‍👓🐱‍💻🐱‍👤🐱‍🚀</div>
+<div align="center">💻</div>
 </br>
 <h3 align="center">⚡Highlights Technologies⚡</h3>
 
@@ -17,7 +17,7 @@ Being at the forefront of information and mastering new technologies motivates m
   
  </div>
 
-<h3 align="center"> 🐱‍🐉Contact me🐱‍🐉 </h3>
+<h3 align="center"> 🔮Contact me🔮 </h3>
 
 <div align="center">
 
