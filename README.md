@@ -14,9 +14,10 @@ Being at the forefront of information and mastering new technologies motivates m
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](https://www.typescriptlang.org/)
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](https://nodejs.org/en/)
 [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=graphql&logoColor=e535ab)](https://graphql.org/)
+[![Tailwind Badge](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&labelColor=black&logo=tailwind-css&logoColor=38B2AC)](https://tailwindcss.com/)
 [![Nestjs Badge](https://img.shields.io/badge/-Nestjs-ed2945?style=for-the-badge&labelColor=black&logo=nestjs&logoColor=ed2945)](https://nestjs.com/)
 [![Jest Badge](https://img.shields.io/badge/-Jest-ba4e49?style=for-the-badge&labelColor=black&logo=jest&logoColor=ff746e)](https://jestjs.io/)
-[![Tailwind Badge](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&labelColor=black&logo=tailwind-css&logoColor=38B2AC)](https://tailwindcss.com/)
+
   
  </div>
 
