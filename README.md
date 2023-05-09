@@ -1,7 +1,6 @@
 <h1 align="center">Web Developer</h1>
 <div align="center">👨‍💻</div>
-<h4 align="center">Programmer oriented to the development of clean code, optimization and continuous improvement.
-Being at the forefront of information and mastering new technologies motivates me.</h4>
+<h4 align="center">As a programmer, I am focused on developing high-performance applications with clean code. I am always in search of optimization and continuous improvement in my projects. Staying at the forefront of information and mastering new technologies is what motivates me.</h4>
 </br>
 <div align="center">💻</div>
 </br>
